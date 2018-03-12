@@ -1,4 +1,4 @@
-var https = reuqire('https');
+var https = require('https');
 var fs = require('fs');
 
 var options = {
